@@ -1,0 +1,31 @@
+participant,label,recording,signal,value,class_median
+Dan,SIT,SIT_03.zip,gyro_mag_sd,0.03441819886000962,0.0031316424572818
+Dan,STAND,STAND_10.zip,gyro_mag_sd,0.046989503932207,0.012203100929739027
+Dan,DOWN,DOWN_01.zip,movement_closer_to,UP,3.333026992004454
+S01,SIT,SIT_01.zip,gyro_mag_sd,0.013976162221681082,0.0037818533146529083
+S01,STAND,STAND_02.zip,gyro_mag_sd,0.0026224790025167364,0.008448631273934014
+S01,STAND,STAND_04.zip,gyro_mag_sd,0.0025501234209046497,0.008448631273934014
+S01,SIT,SIT_06.zip,movement_closer_to,STAND,0.01685448337567997
+S01,SIT,SIT_08.zip,movement_closer_to,STAND,0.01685448337567997
+S01,SIT,SIT_10.zip,movement_closer_to,STAND,0.01685448337567997
+S01,STAND,STAND_01.zip,movement_closer_to,SIT,0.01553593632536188
+S01,STAND,STAND_03.zip,movement_closer_to,SIT,0.01553593632536188
+S02,SIT,SIT_02.zip,gyro_mag_sd,0.008776262770786664,0.0018761751358899318
+S02,SIT,SIT_06.zip,gyro_mag_sd,0.0132460360186702,0.0018761751358899318
+S02,DOWN,DOWN_02.zip,movement_closer_to,UP,0.9143391393820505
+S02,DOWN,DOWN_05.zip,movement_closer_to,UP,0.9143391393820505
+S02,STAND,STAND_10.zip,movement_closer_to,SIT,0.017038259052484662
+S02,UP,UP_02.zip,movement_closer_to,DOWN,0.7288966961484431
+S03,STAND,STAND_03.zip,gyro_mag_sd,0.005929002066558117,0.018191956048944538
+S03,UP,UP_01.zip,gyro_mag_sd,0.21303168070900336,0.7069045388131994
+S03,STAND,STAND_06.zip,movement_closer_to,SIT,0.01991064427473694
+S03,UP,UP_05.zip,movement_closer_to,DOWN,2.871985478887376
+S04,SIT,SIT_03.zip,gyro_mag_sd,0.03441819886000962,0.0031316424572818
+S04,STAND,STAND_10.zip,gyro_mag_sd,0.046989503932207,0.012203100929739027
+S04,DOWN,DOWN_01.zip,movement_closer_to,UP,3.333026992004454
+Dan,SIT,SIT_07.zip,tilt,"18 deg from own class, 14 deg from other",
+S01,SIT,SIT_01.zip,tilt,"149 deg from own class, 121 deg from other",
+S01,STAND,STAND_09.zip,tilt,"62 deg from own class, 128 deg from other",
+S02,SIT,SIT_03.zip,tilt,"51 deg from own class, 21 deg from other",
+S02,SIT,SIT_10.zip,tilt,"136 deg from own class, 76 deg from other",
+S04,SIT,SIT_07.zip,tilt,"18 deg from own class, 14 deg from other",

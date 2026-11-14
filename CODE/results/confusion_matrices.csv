@@ -1,0 +1,501 @@
+experiment,true_label,predicted_label,count
+Personal test: Logistic regression (argmax),SIT,SIT,34
+Personal test: Logistic regression (argmax),SIT,STAND,0
+Personal test: Logistic regression (argmax),SIT,WALK,0
+Personal test: Logistic regression (argmax),SIT,UP,0
+Personal test: Logistic regression (argmax),SIT,DOWN,0
+Personal test: Logistic regression (argmax),STAND,SIT,1
+Personal test: Logistic regression (argmax),STAND,STAND,32
+Personal test: Logistic regression (argmax),STAND,WALK,0
+Personal test: Logistic regression (argmax),STAND,UP,0
+Personal test: Logistic regression (argmax),STAND,DOWN,0
+Personal test: Logistic regression (argmax),WALK,SIT,0
+Personal test: Logistic regression (argmax),WALK,STAND,0
+Personal test: Logistic regression (argmax),WALK,WALK,33
+Personal test: Logistic regression (argmax),WALK,UP,0
+Personal test: Logistic regression (argmax),WALK,DOWN,0
+Personal test: Logistic regression (argmax),UP,SIT,0
+Personal test: Logistic regression (argmax),UP,STAND,0
+Personal test: Logistic regression (argmax),UP,WALK,0
+Personal test: Logistic regression (argmax),UP,UP,11
+Personal test: Logistic regression (argmax),UP,DOWN,0
+Personal test: Logistic regression (argmax),DOWN,SIT,0
+Personal test: Logistic regression (argmax),DOWN,STAND,0
+Personal test: Logistic regression (argmax),DOWN,WALK,1
+Personal test: Logistic regression (argmax),DOWN,UP,1
+Personal test: Logistic regression (argmax),DOWN,DOWN,9
+Personal test: Logistic regression (minimum expected cost),SIT,SIT,34
+Personal test: Logistic regression (minimum expected cost),SIT,STAND,0
+Personal test: Logistic regression (minimum expected cost),SIT,WALK,0
+Personal test: Logistic regression (minimum expected cost),SIT,UP,0
+Personal test: Logistic regression (minimum expected cost),SIT,DOWN,0
+Personal test: Logistic regression (minimum expected cost),STAND,SIT,1
+Personal test: Logistic regression (minimum expected cost),STAND,STAND,32
+Personal test: Logistic regression (minimum expected cost),STAND,WALK,0
+Personal test: Logistic regression (minimum expected cost),STAND,UP,0
+Personal test: Logistic regression (minimum expected cost),STAND,DOWN,0
+Personal test: Logistic regression (minimum expected cost),WALK,SIT,0
+Personal test: Logistic regression (minimum expected cost),WALK,STAND,0
+Personal test: Logistic regression (minimum expected cost),WALK,WALK,33
+Personal test: Logistic regression (minimum expected cost),WALK,UP,0
+Personal test: Logistic regression (minimum expected cost),WALK,DOWN,0
+Personal test: Logistic regression (minimum expected cost),UP,SIT,0
+Personal test: Logistic regression (minimum expected cost),UP,STAND,0
+Personal test: Logistic regression (minimum expected cost),UP,WALK,0
+Personal test: Logistic regression (minimum expected cost),UP,UP,11
+Personal test: Logistic regression (minimum expected cost),UP,DOWN,0
+Personal test: Logistic regression (minimum expected cost),DOWN,SIT,0
+Personal test: Logistic regression (minimum expected cost),DOWN,STAND,0
+Personal test: Logistic regression (minimum expected cost),DOWN,WALK,0
+Personal test: Logistic regression (minimum expected cost),DOWN,UP,1
+Personal test: Logistic regression (minimum expected cost),DOWN,DOWN,10
+Across-person | S01 | LogisticRegression | argmax,SIT,SIT,113
+Across-person | S01 | LogisticRegression | argmax,SIT,STAND,0
+Across-person | S01 | LogisticRegression | argmax,SIT,WALK,0
+Across-person | S01 | LogisticRegression | argmax,SIT,UP,0
+Across-person | S01 | LogisticRegression | argmax,SIT,DOWN,0
+Across-person | S01 | LogisticRegression | argmax,STAND,SIT,0
+Across-person | S01 | LogisticRegression | argmax,STAND,STAND,115
+Across-person | S01 | LogisticRegression | argmax,STAND,WALK,0
+Across-person | S01 | LogisticRegression | argmax,STAND,UP,0
+Across-person | S01 | LogisticRegression | argmax,STAND,DOWN,0
+Across-person | S01 | LogisticRegression | argmax,WALK,SIT,0
+Across-person | S01 | LogisticRegression | argmax,WALK,STAND,0
+Across-person | S01 | LogisticRegression | argmax,WALK,WALK,1
+Across-person | S01 | LogisticRegression | argmax,WALK,UP,2
+Across-person | S01 | LogisticRegression | argmax,WALK,DOWN,109
+Across-person | S01 | LogisticRegression | argmax,UP,SIT,0
+Across-person | S01 | LogisticRegression | argmax,UP,STAND,0
+Across-person | S01 | LogisticRegression | argmax,UP,WALK,12
+Across-person | S01 | LogisticRegression | argmax,UP,UP,42
+Across-person | S01 | LogisticRegression | argmax,UP,DOWN,1
+Across-person | S01 | LogisticRegression | argmax,DOWN,SIT,0
+Across-person | S01 | LogisticRegression | argmax,DOWN,STAND,0
+Across-person | S01 | LogisticRegression | argmax,DOWN,WALK,30
+Across-person | S01 | LogisticRegression | argmax,DOWN,UP,7
+Across-person | S01 | LogisticRegression | argmax,DOWN,DOWN,19
+Across-person | S01 | LogisticRegression | minimum_expected_cost,SIT,SIT,113
+Across-person | S01 | LogisticRegression | minimum_expected_cost,SIT,STAND,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,SIT,WALK,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,SIT,UP,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,SIT,DOWN,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,STAND,SIT,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,STAND,STAND,115
+Across-person | S01 | LogisticRegression | minimum_expected_cost,STAND,WALK,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,STAND,UP,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,STAND,DOWN,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,WALK,SIT,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,WALK,STAND,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,WALK,WALK,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,WALK,UP,2
+Across-person | S01 | LogisticRegression | minimum_expected_cost,WALK,DOWN,110
+Across-person | S01 | LogisticRegression | minimum_expected_cost,UP,SIT,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,UP,STAND,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,UP,WALK,2
+Across-person | S01 | LogisticRegression | minimum_expected_cost,UP,UP,52
+Across-person | S01 | LogisticRegression | minimum_expected_cost,UP,DOWN,1
+Across-person | S01 | LogisticRegression | minimum_expected_cost,DOWN,SIT,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,DOWN,STAND,0
+Across-person | S01 | LogisticRegression | minimum_expected_cost,DOWN,WALK,13
+Across-person | S01 | LogisticRegression | minimum_expected_cost,DOWN,UP,20
+Across-person | S01 | LogisticRegression | minimum_expected_cost,DOWN,DOWN,23
+Across-person | S02 | LogisticRegression | argmax,SIT,SIT,88
+Across-person | S02 | LogisticRegression | argmax,SIT,STAND,22
+Across-person | S02 | LogisticRegression | argmax,SIT,WALK,0
+Across-person | S02 | LogisticRegression | argmax,SIT,UP,0
+Across-person | S02 | LogisticRegression | argmax,SIT,DOWN,0
+Across-person | S02 | LogisticRegression | argmax,STAND,SIT,0
+Across-person | S02 | LogisticRegression | argmax,STAND,STAND,110
+Across-person | S02 | LogisticRegression | argmax,STAND,WALK,0
+Across-person | S02 | LogisticRegression | argmax,STAND,UP,0
+Across-person | S02 | LogisticRegression | argmax,STAND,DOWN,0
+Across-person | S02 | LogisticRegression | argmax,WALK,SIT,0
+Across-person | S02 | LogisticRegression | argmax,WALK,STAND,0
+Across-person | S02 | LogisticRegression | argmax,WALK,WALK,9
+Across-person | S02 | LogisticRegression | argmax,WALK,UP,77
+Across-person | S02 | LogisticRegression | argmax,WALK,DOWN,24
+Across-person | S02 | LogisticRegression | argmax,UP,SIT,0
+Across-person | S02 | LogisticRegression | argmax,UP,STAND,26
+Across-person | S02 | LogisticRegression | argmax,UP,WALK,6
+Across-person | S02 | LogisticRegression | argmax,UP,UP,23
+Across-person | S02 | LogisticRegression | argmax,UP,DOWN,0
+Across-person | S02 | LogisticRegression | argmax,DOWN,SIT,0
+Across-person | S02 | LogisticRegression | argmax,DOWN,STAND,39
+Across-person | S02 | LogisticRegression | argmax,DOWN,WALK,2
+Across-person | S02 | LogisticRegression | argmax,DOWN,UP,14
+Across-person | S02 | LogisticRegression | argmax,DOWN,DOWN,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,SIT,SIT,88
+Across-person | S02 | LogisticRegression | minimum_expected_cost,SIT,STAND,22
+Across-person | S02 | LogisticRegression | minimum_expected_cost,SIT,WALK,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,SIT,UP,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,SIT,DOWN,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,STAND,SIT,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,STAND,STAND,110
+Across-person | S02 | LogisticRegression | minimum_expected_cost,STAND,WALK,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,STAND,UP,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,STAND,DOWN,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,WALK,SIT,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,WALK,STAND,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,WALK,WALK,1
+Across-person | S02 | LogisticRegression | minimum_expected_cost,WALK,UP,83
+Across-person | S02 | LogisticRegression | minimum_expected_cost,WALK,DOWN,26
+Across-person | S02 | LogisticRegression | minimum_expected_cost,UP,SIT,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,UP,STAND,24
+Across-person | S02 | LogisticRegression | minimum_expected_cost,UP,WALK,1
+Across-person | S02 | LogisticRegression | minimum_expected_cost,UP,UP,30
+Across-person | S02 | LogisticRegression | minimum_expected_cost,UP,DOWN,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,DOWN,SIT,0
+Across-person | S02 | LogisticRegression | minimum_expected_cost,DOWN,STAND,38
+Across-person | S02 | LogisticRegression | minimum_expected_cost,DOWN,WALK,1
+Across-person | S02 | LogisticRegression | minimum_expected_cost,DOWN,UP,15
+Across-person | S02 | LogisticRegression | minimum_expected_cost,DOWN,DOWN,1
+Across-person | S03 | LogisticRegression | argmax,SIT,SIT,0
+Across-person | S03 | LogisticRegression | argmax,SIT,STAND,123
+Across-person | S03 | LogisticRegression | argmax,SIT,WALK,0
+Across-person | S03 | LogisticRegression | argmax,SIT,UP,0
+Across-person | S03 | LogisticRegression | argmax,SIT,DOWN,0
+Across-person | S03 | LogisticRegression | argmax,STAND,SIT,0
+Across-person | S03 | LogisticRegression | argmax,STAND,STAND,118
+Across-person | S03 | LogisticRegression | argmax,STAND,WALK,0
+Across-person | S03 | LogisticRegression | argmax,STAND,UP,0
+Across-person | S03 | LogisticRegression | argmax,STAND,DOWN,0
+Across-person | S03 | LogisticRegression | argmax,WALK,SIT,1
+Across-person | S03 | LogisticRegression | argmax,WALK,STAND,0
+Across-person | S03 | LogisticRegression | argmax,WALK,WALK,19
+Across-person | S03 | LogisticRegression | argmax,WALK,UP,96
+Across-person | S03 | LogisticRegression | argmax,WALK,DOWN,0
+Across-person | S03 | LogisticRegression | argmax,UP,SIT,0
+Across-person | S03 | LogisticRegression | argmax,UP,STAND,0
+Across-person | S03 | LogisticRegression | argmax,UP,WALK,23
+Across-person | S03 | LogisticRegression | argmax,UP,UP,57
+Across-person | S03 | LogisticRegression | argmax,UP,DOWN,0
+Across-person | S03 | LogisticRegression | argmax,DOWN,SIT,0
+Across-person | S03 | LogisticRegression | argmax,DOWN,STAND,0
+Across-person | S03 | LogisticRegression | argmax,DOWN,WALK,18
+Across-person | S03 | LogisticRegression | argmax,DOWN,UP,40
+Across-person | S03 | LogisticRegression | argmax,DOWN,DOWN,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,SIT,SIT,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,SIT,STAND,123
+Across-person | S03 | LogisticRegression | minimum_expected_cost,SIT,WALK,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,SIT,UP,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,SIT,DOWN,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,STAND,SIT,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,STAND,STAND,118
+Across-person | S03 | LogisticRegression | minimum_expected_cost,STAND,WALK,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,STAND,UP,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,STAND,DOWN,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,WALK,SIT,1
+Across-person | S03 | LogisticRegression | minimum_expected_cost,WALK,STAND,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,WALK,WALK,3
+Across-person | S03 | LogisticRegression | minimum_expected_cost,WALK,UP,111
+Across-person | S03 | LogisticRegression | minimum_expected_cost,WALK,DOWN,1
+Across-person | S03 | LogisticRegression | minimum_expected_cost,UP,SIT,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,UP,STAND,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,UP,WALK,4
+Across-person | S03 | LogisticRegression | minimum_expected_cost,UP,UP,75
+Across-person | S03 | LogisticRegression | minimum_expected_cost,UP,DOWN,1
+Across-person | S03 | LogisticRegression | minimum_expected_cost,DOWN,SIT,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,DOWN,STAND,0
+Across-person | S03 | LogisticRegression | minimum_expected_cost,DOWN,WALK,5
+Across-person | S03 | LogisticRegression | minimum_expected_cost,DOWN,UP,53
+Across-person | S03 | LogisticRegression | minimum_expected_cost,DOWN,DOWN,0
+Across-person | S04 | LogisticRegression | argmax,SIT,SIT,34
+Across-person | S04 | LogisticRegression | argmax,SIT,STAND,0
+Across-person | S04 | LogisticRegression | argmax,SIT,WALK,0
+Across-person | S04 | LogisticRegression | argmax,SIT,UP,0
+Across-person | S04 | LogisticRegression | argmax,SIT,DOWN,0
+Across-person | S04 | LogisticRegression | argmax,STAND,SIT,1
+Across-person | S04 | LogisticRegression | argmax,STAND,STAND,32
+Across-person | S04 | LogisticRegression | argmax,STAND,WALK,0
+Across-person | S04 | LogisticRegression | argmax,STAND,UP,0
+Across-person | S04 | LogisticRegression | argmax,STAND,DOWN,0
+Across-person | S04 | LogisticRegression | argmax,WALK,SIT,0
+Across-person | S04 | LogisticRegression | argmax,WALK,STAND,0
+Across-person | S04 | LogisticRegression | argmax,WALK,WALK,33
+Across-person | S04 | LogisticRegression | argmax,WALK,UP,0
+Across-person | S04 | LogisticRegression | argmax,WALK,DOWN,0
+Across-person | S04 | LogisticRegression | argmax,UP,SIT,0
+Across-person | S04 | LogisticRegression | argmax,UP,STAND,0
+Across-person | S04 | LogisticRegression | argmax,UP,WALK,0
+Across-person | S04 | LogisticRegression | argmax,UP,UP,11
+Across-person | S04 | LogisticRegression | argmax,UP,DOWN,0
+Across-person | S04 | LogisticRegression | argmax,DOWN,SIT,0
+Across-person | S04 | LogisticRegression | argmax,DOWN,STAND,0
+Across-person | S04 | LogisticRegression | argmax,DOWN,WALK,1
+Across-person | S04 | LogisticRegression | argmax,DOWN,UP,1
+Across-person | S04 | LogisticRegression | argmax,DOWN,DOWN,9
+Across-person | S04 | LogisticRegression | minimum_expected_cost,SIT,SIT,34
+Across-person | S04 | LogisticRegression | minimum_expected_cost,SIT,STAND,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,SIT,WALK,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,SIT,UP,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,SIT,DOWN,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,STAND,SIT,1
+Across-person | S04 | LogisticRegression | minimum_expected_cost,STAND,STAND,32
+Across-person | S04 | LogisticRegression | minimum_expected_cost,STAND,WALK,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,STAND,UP,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,STAND,DOWN,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,WALK,SIT,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,WALK,STAND,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,WALK,WALK,33
+Across-person | S04 | LogisticRegression | minimum_expected_cost,WALK,UP,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,WALK,DOWN,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,UP,SIT,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,UP,STAND,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,UP,WALK,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,UP,UP,11
+Across-person | S04 | LogisticRegression | minimum_expected_cost,UP,DOWN,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,DOWN,SIT,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,DOWN,STAND,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,DOWN,WALK,0
+Across-person | S04 | LogisticRegression | minimum_expected_cost,DOWN,UP,1
+Across-person | S04 | LogisticRegression | minimum_expected_cost,DOWN,DOWN,10
+Personal test: Random forest (argmax),SIT,SIT,34
+Personal test: Random forest (argmax),SIT,STAND,0
+Personal test: Random forest (argmax),SIT,WALK,0
+Personal test: Random forest (argmax),SIT,UP,0
+Personal test: Random forest (argmax),SIT,DOWN,0
+Personal test: Random forest (argmax),STAND,SIT,0
+Personal test: Random forest (argmax),STAND,STAND,33
+Personal test: Random forest (argmax),STAND,WALK,0
+Personal test: Random forest (argmax),STAND,UP,0
+Personal test: Random forest (argmax),STAND,DOWN,0
+Personal test: Random forest (argmax),WALK,SIT,0
+Personal test: Random forest (argmax),WALK,STAND,0
+Personal test: Random forest (argmax),WALK,WALK,33
+Personal test: Random forest (argmax),WALK,UP,0
+Personal test: Random forest (argmax),WALK,DOWN,0
+Personal test: Random forest (argmax),UP,SIT,0
+Personal test: Random forest (argmax),UP,STAND,0
+Personal test: Random forest (argmax),UP,WALK,0
+Personal test: Random forest (argmax),UP,UP,10
+Personal test: Random forest (argmax),UP,DOWN,1
+Personal test: Random forest (argmax),DOWN,SIT,0
+Personal test: Random forest (argmax),DOWN,STAND,0
+Personal test: Random forest (argmax),DOWN,WALK,0
+Personal test: Random forest (argmax),DOWN,UP,1
+Personal test: Random forest (argmax),DOWN,DOWN,10
+Personal test: Random forest (minimum expected cost),SIT,SIT,34
+Personal test: Random forest (minimum expected cost),SIT,STAND,0
+Personal test: Random forest (minimum expected cost),SIT,WALK,0
+Personal test: Random forest (minimum expected cost),SIT,UP,0
+Personal test: Random forest (minimum expected cost),SIT,DOWN,0
+Personal test: Random forest (minimum expected cost),STAND,SIT,0
+Personal test: Random forest (minimum expected cost),STAND,STAND,33
+Personal test: Random forest (minimum expected cost),STAND,WALK,0
+Personal test: Random forest (minimum expected cost),STAND,UP,0
+Personal test: Random forest (minimum expected cost),STAND,DOWN,0
+Personal test: Random forest (minimum expected cost),WALK,SIT,0
+Personal test: Random forest (minimum expected cost),WALK,STAND,0
+Personal test: Random forest (minimum expected cost),WALK,WALK,33
+Personal test: Random forest (minimum expected cost),WALK,UP,0
+Personal test: Random forest (minimum expected cost),WALK,DOWN,0
+Personal test: Random forest (minimum expected cost),UP,SIT,0
+Personal test: Random forest (minimum expected cost),UP,STAND,0
+Personal test: Random forest (minimum expected cost),UP,WALK,0
+Personal test: Random forest (minimum expected cost),UP,UP,10
+Personal test: Random forest (minimum expected cost),UP,DOWN,1
+Personal test: Random forest (minimum expected cost),DOWN,SIT,0
+Personal test: Random forest (minimum expected cost),DOWN,STAND,0
+Personal test: Random forest (minimum expected cost),DOWN,WALK,0
+Personal test: Random forest (minimum expected cost),DOWN,UP,1
+Personal test: Random forest (minimum expected cost),DOWN,DOWN,10
+Across-person | S01 | RandomForest | argmax,SIT,SIT,30
+Across-person | S01 | RandomForest | argmax,SIT,STAND,83
+Across-person | S01 | RandomForest | argmax,SIT,WALK,0
+Across-person | S01 | RandomForest | argmax,SIT,UP,0
+Across-person | S01 | RandomForest | argmax,SIT,DOWN,0
+Across-person | S01 | RandomForest | argmax,STAND,SIT,0
+Across-person | S01 | RandomForest | argmax,STAND,STAND,115
+Across-person | S01 | RandomForest | argmax,STAND,WALK,0
+Across-person | S01 | RandomForest | argmax,STAND,UP,0
+Across-person | S01 | RandomForest | argmax,STAND,DOWN,0
+Across-person | S01 | RandomForest | argmax,WALK,SIT,0
+Across-person | S01 | RandomForest | argmax,WALK,STAND,0
+Across-person | S01 | RandomForest | argmax,WALK,WALK,0
+Across-person | S01 | RandomForest | argmax,WALK,UP,0
+Across-person | S01 | RandomForest | argmax,WALK,DOWN,112
+Across-person | S01 | RandomForest | argmax,UP,SIT,0
+Across-person | S01 | RandomForest | argmax,UP,STAND,0
+Across-person | S01 | RandomForest | argmax,UP,WALK,13
+Across-person | S01 | RandomForest | argmax,UP,UP,1
+Across-person | S01 | RandomForest | argmax,UP,DOWN,41
+Across-person | S01 | RandomForest | argmax,DOWN,SIT,0
+Across-person | S01 | RandomForest | argmax,DOWN,STAND,0
+Across-person | S01 | RandomForest | argmax,DOWN,WALK,7
+Across-person | S01 | RandomForest | argmax,DOWN,UP,0
+Across-person | S01 | RandomForest | argmax,DOWN,DOWN,49
+Across-person | S01 | RandomForest | minimum_expected_cost,SIT,SIT,30
+Across-person | S01 | RandomForest | minimum_expected_cost,SIT,STAND,83
+Across-person | S01 | RandomForest | minimum_expected_cost,SIT,WALK,0
+Across-person | S01 | RandomForest | minimum_expected_cost,SIT,UP,0
+Across-person | S01 | RandomForest | minimum_expected_cost,SIT,DOWN,0
+Across-person | S01 | RandomForest | minimum_expected_cost,STAND,SIT,0
+Across-person | S01 | RandomForest | minimum_expected_cost,STAND,STAND,115
+Across-person | S01 | RandomForest | minimum_expected_cost,STAND,WALK,0
+Across-person | S01 | RandomForest | minimum_expected_cost,STAND,UP,0
+Across-person | S01 | RandomForest | minimum_expected_cost,STAND,DOWN,0
+Across-person | S01 | RandomForest | minimum_expected_cost,WALK,SIT,0
+Across-person | S01 | RandomForest | minimum_expected_cost,WALK,STAND,0
+Across-person | S01 | RandomForest | minimum_expected_cost,WALK,WALK,0
+Across-person | S01 | RandomForest | minimum_expected_cost,WALK,UP,0
+Across-person | S01 | RandomForest | minimum_expected_cost,WALK,DOWN,112
+Across-person | S01 | RandomForest | minimum_expected_cost,UP,SIT,0
+Across-person | S01 | RandomForest | minimum_expected_cost,UP,STAND,0
+Across-person | S01 | RandomForest | minimum_expected_cost,UP,WALK,0
+Across-person | S01 | RandomForest | minimum_expected_cost,UP,UP,7
+Across-person | S01 | RandomForest | minimum_expected_cost,UP,DOWN,48
+Across-person | S01 | RandomForest | minimum_expected_cost,DOWN,SIT,0
+Across-person | S01 | RandomForest | minimum_expected_cost,DOWN,STAND,0
+Across-person | S01 | RandomForest | minimum_expected_cost,DOWN,WALK,0
+Across-person | S01 | RandomForest | minimum_expected_cost,DOWN,UP,0
+Across-person | S01 | RandomForest | minimum_expected_cost,DOWN,DOWN,56
+Across-person | S02 | RandomForest | argmax,SIT,SIT,81
+Across-person | S02 | RandomForest | argmax,SIT,STAND,29
+Across-person | S02 | RandomForest | argmax,SIT,WALK,0
+Across-person | S02 | RandomForest | argmax,SIT,UP,0
+Across-person | S02 | RandomForest | argmax,SIT,DOWN,0
+Across-person | S02 | RandomForest | argmax,STAND,SIT,0
+Across-person | S02 | RandomForest | argmax,STAND,STAND,110
+Across-person | S02 | RandomForest | argmax,STAND,WALK,0
+Across-person | S02 | RandomForest | argmax,STAND,UP,0
+Across-person | S02 | RandomForest | argmax,STAND,DOWN,0
+Across-person | S02 | RandomForest | argmax,WALK,SIT,0
+Across-person | S02 | RandomForest | argmax,WALK,STAND,0
+Across-person | S02 | RandomForest | argmax,WALK,WALK,8
+Across-person | S02 | RandomForest | argmax,WALK,UP,14
+Across-person | S02 | RandomForest | argmax,WALK,DOWN,88
+Across-person | S02 | RandomForest | argmax,UP,SIT,0
+Across-person | S02 | RandomForest | argmax,UP,STAND,19
+Across-person | S02 | RandomForest | argmax,UP,WALK,12
+Across-person | S02 | RandomForest | argmax,UP,UP,16
+Across-person | S02 | RandomForest | argmax,UP,DOWN,8
+Across-person | S02 | RandomForest | argmax,DOWN,SIT,0
+Across-person | S02 | RandomForest | argmax,DOWN,STAND,26
+Across-person | S02 | RandomForest | argmax,DOWN,WALK,9
+Across-person | S02 | RandomForest | argmax,DOWN,UP,13
+Across-person | S02 | RandomForest | argmax,DOWN,DOWN,7
+Across-person | S02 | RandomForest | minimum_expected_cost,SIT,SIT,81
+Across-person | S02 | RandomForest | minimum_expected_cost,SIT,STAND,29
+Across-person | S02 | RandomForest | minimum_expected_cost,SIT,WALK,0
+Across-person | S02 | RandomForest | minimum_expected_cost,SIT,UP,0
+Across-person | S02 | RandomForest | minimum_expected_cost,SIT,DOWN,0
+Across-person | S02 | RandomForest | minimum_expected_cost,STAND,SIT,0
+Across-person | S02 | RandomForest | minimum_expected_cost,STAND,STAND,110
+Across-person | S02 | RandomForest | minimum_expected_cost,STAND,WALK,0
+Across-person | S02 | RandomForest | minimum_expected_cost,STAND,UP,0
+Across-person | S02 | RandomForest | minimum_expected_cost,STAND,DOWN,0
+Across-person | S02 | RandomForest | minimum_expected_cost,WALK,SIT,0
+Across-person | S02 | RandomForest | minimum_expected_cost,WALK,STAND,0
+Across-person | S02 | RandomForest | minimum_expected_cost,WALK,WALK,0
+Across-person | S02 | RandomForest | minimum_expected_cost,WALK,UP,18
+Across-person | S02 | RandomForest | minimum_expected_cost,WALK,DOWN,92
+Across-person | S02 | RandomForest | minimum_expected_cost,UP,SIT,0
+Across-person | S02 | RandomForest | minimum_expected_cost,UP,STAND,19
+Across-person | S02 | RandomForest | minimum_expected_cost,UP,WALK,4
+Across-person | S02 | RandomForest | minimum_expected_cost,UP,UP,24
+Across-person | S02 | RandomForest | minimum_expected_cost,UP,DOWN,8
+Across-person | S02 | RandomForest | minimum_expected_cost,DOWN,SIT,0
+Across-person | S02 | RandomForest | minimum_expected_cost,DOWN,STAND,25
+Across-person | S02 | RandomForest | minimum_expected_cost,DOWN,WALK,3
+Across-person | S02 | RandomForest | minimum_expected_cost,DOWN,UP,18
+Across-person | S02 | RandomForest | minimum_expected_cost,DOWN,DOWN,9
+Across-person | S03 | RandomForest | argmax,SIT,SIT,1
+Across-person | S03 | RandomForest | argmax,SIT,STAND,122
+Across-person | S03 | RandomForest | argmax,SIT,WALK,0
+Across-person | S03 | RandomForest | argmax,SIT,UP,0
+Across-person | S03 | RandomForest | argmax,SIT,DOWN,0
+Across-person | S03 | RandomForest | argmax,STAND,SIT,0
+Across-person | S03 | RandomForest | argmax,STAND,STAND,118
+Across-person | S03 | RandomForest | argmax,STAND,WALK,0
+Across-person | S03 | RandomForest | argmax,STAND,UP,0
+Across-person | S03 | RandomForest | argmax,STAND,DOWN,0
+Across-person | S03 | RandomForest | argmax,WALK,SIT,0
+Across-person | S03 | RandomForest | argmax,WALK,STAND,0
+Across-person | S03 | RandomForest | argmax,WALK,WALK,21
+Across-person | S03 | RandomForest | argmax,WALK,UP,54
+Across-person | S03 | RandomForest | argmax,WALK,DOWN,41
+Across-person | S03 | RandomForest | argmax,UP,SIT,0
+Across-person | S03 | RandomForest | argmax,UP,STAND,0
+Across-person | S03 | RandomForest | argmax,UP,WALK,47
+Across-person | S03 | RandomForest | argmax,UP,UP,1
+Across-person | S03 | RandomForest | argmax,UP,DOWN,32
+Across-person | S03 | RandomForest | argmax,DOWN,SIT,0
+Across-person | S03 | RandomForest | argmax,DOWN,STAND,0
+Across-person | S03 | RandomForest | argmax,DOWN,WALK,40
+Across-person | S03 | RandomForest | argmax,DOWN,UP,5
+Across-person | S03 | RandomForest | argmax,DOWN,DOWN,13
+Across-person | S03 | RandomForest | minimum_expected_cost,SIT,SIT,1
+Across-person | S03 | RandomForest | minimum_expected_cost,SIT,STAND,122
+Across-person | S03 | RandomForest | minimum_expected_cost,SIT,WALK,0
+Across-person | S03 | RandomForest | minimum_expected_cost,SIT,UP,0
+Across-person | S03 | RandomForest | minimum_expected_cost,SIT,DOWN,0
+Across-person | S03 | RandomForest | minimum_expected_cost,STAND,SIT,0
+Across-person | S03 | RandomForest | minimum_expected_cost,STAND,STAND,118
+Across-person | S03 | RandomForest | minimum_expected_cost,STAND,WALK,0
+Across-person | S03 | RandomForest | minimum_expected_cost,STAND,UP,0
+Across-person | S03 | RandomForest | minimum_expected_cost,STAND,DOWN,0
+Across-person | S03 | RandomForest | minimum_expected_cost,WALK,SIT,0
+Across-person | S03 | RandomForest | minimum_expected_cost,WALK,STAND,0
+Across-person | S03 | RandomForest | minimum_expected_cost,WALK,WALK,1
+Across-person | S03 | RandomForest | minimum_expected_cost,WALK,UP,65
+Across-person | S03 | RandomForest | minimum_expected_cost,WALK,DOWN,50
+Across-person | S03 | RandomForest | minimum_expected_cost,UP,SIT,0
+Across-person | S03 | RandomForest | minimum_expected_cost,UP,STAND,0
+Across-person | S03 | RandomForest | minimum_expected_cost,UP,WALK,0
+Across-person | S03 | RandomForest | minimum_expected_cost,UP,UP,14
+Across-person | S03 | RandomForest | minimum_expected_cost,UP,DOWN,66
+Across-person | S03 | RandomForest | minimum_expected_cost,DOWN,SIT,0
+Across-person | S03 | RandomForest | minimum_expected_cost,DOWN,STAND,0
+Across-person | S03 | RandomForest | minimum_expected_cost,DOWN,WALK,0
+Across-person | S03 | RandomForest | minimum_expected_cost,DOWN,UP,22
+Across-person | S03 | RandomForest | minimum_expected_cost,DOWN,DOWN,36
+Across-person | S04 | RandomForest | argmax,SIT,SIT,34
+Across-person | S04 | RandomForest | argmax,SIT,STAND,0
+Across-person | S04 | RandomForest | argmax,SIT,WALK,0
+Across-person | S04 | RandomForest | argmax,SIT,UP,0
+Across-person | S04 | RandomForest | argmax,SIT,DOWN,0
+Across-person | S04 | RandomForest | argmax,STAND,SIT,0
+Across-person | S04 | RandomForest | argmax,STAND,STAND,33
+Across-person | S04 | RandomForest | argmax,STAND,WALK,0
+Across-person | S04 | RandomForest | argmax,STAND,UP,0
+Across-person | S04 | RandomForest | argmax,STAND,DOWN,0
+Across-person | S04 | RandomForest | argmax,WALK,SIT,0
+Across-person | S04 | RandomForest | argmax,WALK,STAND,0
+Across-person | S04 | RandomForest | argmax,WALK,WALK,33
+Across-person | S04 | RandomForest | argmax,WALK,UP,0
+Across-person | S04 | RandomForest | argmax,WALK,DOWN,0
+Across-person | S04 | RandomForest | argmax,UP,SIT,0
+Across-person | S04 | RandomForest | argmax,UP,STAND,0
+Across-person | S04 | RandomForest | argmax,UP,WALK,0
+Across-person | S04 | RandomForest | argmax,UP,UP,10
+Across-person | S04 | RandomForest | argmax,UP,DOWN,1
+Across-person | S04 | RandomForest | argmax,DOWN,SIT,0
+Across-person | S04 | RandomForest | argmax,DOWN,STAND,0
+Across-person | S04 | RandomForest | argmax,DOWN,WALK,0
+Across-person | S04 | RandomForest | argmax,DOWN,UP,1
+Across-person | S04 | RandomForest | argmax,DOWN,DOWN,10
+Across-person | S04 | RandomForest | minimum_expected_cost,SIT,SIT,34
+Across-person | S04 | RandomForest | minimum_expected_cost,SIT,STAND,0
+Across-person | S04 | RandomForest | minimum_expected_cost,SIT,WALK,0
+Across-person | S04 | RandomForest | minimum_expected_cost,SIT,UP,0
+Across-person | S04 | RandomForest | minimum_expected_cost,SIT,DOWN,0
+Across-person | S04 | RandomForest | minimum_expected_cost,STAND,SIT,0
+Across-person | S04 | RandomForest | minimum_expected_cost,STAND,STAND,33
+Across-person | S04 | RandomForest | minimum_expected_cost,STAND,WALK,0
+Across-person | S04 | RandomForest | minimum_expected_cost,STAND,UP,0
+Across-person | S04 | RandomForest | minimum_expected_cost,STAND,DOWN,0
+Across-person | S04 | RandomForest | minimum_expected_cost,WALK,SIT,0
+Across-person | S04 | RandomForest | minimum_expected_cost,WALK,STAND,0
+Across-person | S04 | RandomForest | minimum_expected_cost,WALK,WALK,33
+Across-person | S04 | RandomForest | minimum_expected_cost,WALK,UP,0
+Across-person | S04 | RandomForest | minimum_expected_cost,WALK,DOWN,0
+Across-person | S04 | RandomForest | minimum_expected_cost,UP,SIT,0
+Across-person | S04 | RandomForest | minimum_expected_cost,UP,STAND,0
+Across-person | S04 | RandomForest | minimum_expected_cost,UP,WALK,0
+Across-person | S04 | RandomForest | minimum_expected_cost,UP,UP,10
+Across-person | S04 | RandomForest | minimum_expected_cost,UP,DOWN,1
+Across-person | S04 | RandomForest | minimum_expected_cost,DOWN,SIT,0
+Across-person | S04 | RandomForest | minimum_expected_cost,DOWN,STAND,0
+Across-person | S04 | RandomForest | minimum_expected_cost,DOWN,WALK,0
+Across-person | S04 | RandomForest | minimum_expected_cost,DOWN,UP,1
+Across-person | S04 | RandomForest | minimum_expected_cost,DOWN,DOWN,10
